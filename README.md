@@ -1,2 +1,2 @@
-# Demonstration
+# Workshop
 facultatif
